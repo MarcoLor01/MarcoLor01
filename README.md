@@ -15,3 +15,5 @@
 ## 📫 How to Reach Me
 - Email: [marcolorenzini23@gmail.com](mailto:marcolorenzini23@gmail.com)
 - LinkedIn: [Marco Lorenzini](https://www.linkedin.com/in/marco-lorenzini-6053a9255/)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoLor01&layout=compact&theme=radical)
