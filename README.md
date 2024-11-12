@@ -1,4 +1,8 @@
-👋 Hello there! I'm a Master's student in Computer Engineering at Tor Vergata University
+# 👋 Hi, I’m Marco!  
+
+- 🎓 **Bachelor's degree** in Computer Engineering @ Tor Vergata University  
+- 📚 Currently pursuing a **Master's degree** in Computer Engineering @ Tor Vergata University
+- 💻 Passionate about technology, data, and innovation
 
 ## 📫 How to Reach Me
 - Email: [marcolorenzini23@gmail.com](mailto:marcolorenzini23@gmail.com)
@@ -12,11 +16,8 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 
 ## 📊 Statistics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoLor01&layout=compact&theme=radical)
